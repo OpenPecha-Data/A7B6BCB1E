@@ -1,0 +1,18 @@
+id: A7B6BCB1E
+title: 'MSV 1,02: Poṣadhavastu'
+type: translation
+pechas:
+- IEEBDF18C
+- I18FFAE69
+- I8F008930
+source_metadata:
+  languages:
+  - sa
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:02:22.458771
+  last_modified_at: 2023-02-09 15:02:22.458787
+alignment_to_base:
+  IEEBDF18C/7A0F: '4222'
+  I18FFAE69/A529: '4222'
+  I8F008930/F90F: '4222'
